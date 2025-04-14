@@ -2,7 +2,7 @@
 
 A responsive and dynamic web application designed to help students search, filter, and discover colleges across India based on streams like Engineering, Management, and more. The platform includes role-based authentication, a personalized dashboard, admin panel, and detailed college profiles.
 
----
+
 
 ## 🚀 Features
 
@@ -28,7 +28,7 @@ A responsive and dynamic web application designed to help students search, filte
   - Back button on college detail pages
   - Clean, user-friendly interface with responsive design
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -38,14 +38,12 @@ A responsive and dynamic web application designed to help students search, filte
 - **Authentication**: JWT-based auth
 - **Deployment**: Vercel (Frontend), Railway/AWS (Backend + DB)
 
----
+
 
 ## ⚙️ Setup & Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/college-discovery-platform.git
-   cd college-discovery-platform
+  https://github.com/s-204-cmd/Scholars-spotlight-india.git
 
 ## Frontend Setup
 cd client
